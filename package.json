@@ -1,0 +1,20 @@
+{
+  "name": "bitcoin-facts",
+  "version": "1.0.0",
+  "description": "Bitcoin facts displayed in JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://4zer0day.dev/"
+  },
+  "author": "ikmxleo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://4zer0day.dev/"
+  },
+  "homepage": "https://4zer0day.dev/"
+}
