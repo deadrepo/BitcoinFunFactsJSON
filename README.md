@@ -1,4 +1,4 @@
-# BitcoinFunFacts-JSON
+# BitcoinFunFactsJSON
 
 Created by deadrepo
 
